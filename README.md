@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200vmax" />
 </div> 
 
-### <div align="center">I'm Song Jun Ho a full-time front-end developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Song Jun Ho a full-time front-end developer 👨‍💻 working since 2017 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/)  
